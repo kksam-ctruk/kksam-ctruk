@@ -1,14 +1,26 @@
-## Hi there 👋
+## Hi there 👋  
+Welcome to my first GitHub profile!
 
-**kksam-ctruk/kksam-ctruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **a software engineer and programming enthusiast** who loves exploring new technologies, building projects, and continuously improving my craft.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 aku sedang Belajar Vue Js
-- 🌱 aku sedang belajar framework php
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🚀 About Me
+- 🔭 I’m currently working on: **beginner software development & Game Inde Developments**
+- 🌱 I’m learning: **Modern frameworks, scalable architecture, and development**
+- 👯 I’m looking to collaborate on: **Open-source projects & creative software ideas**
+- 🤔 I’m looking for help with: **Cloud orchestration & advanced DevOps**
+- 💬 Ask me about: **Web development, backend engineering, or anything tech**
+- 📫 How to reach me: **galagher075@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I love sports and always try to stay active!**
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** JavaScript, CSS, PHP, & C#
+- **Frameworks:** Laravel, pgAdmin 4  
+- **Tools:** Git, Figma  
+- **Databases:** MySQL, PostgreSQL  
+
+
