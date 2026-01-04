@@ -1,12 +1,12 @@
 ## Hi there 👋  
 Welcome to my first GitHub profile!
 
-I'm **a software engineer and programming enthusiast** who loves exploring new technologies, building projects, and continuously improving my craft.
+I'm **a software engineer and programming enthusiast** loves exploring new technologies, building projects, and continuously improving my craft.
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on: **beginner software development & Game Inde Developments**
+🚀 About Me
+- 🔭 I’m currently working on: **beginner software development**
 - 🌱 I’m learning: **Modern frameworks, scalable architecture, and development**
 - 👯 I’m looking to collaborate on: **Open-source projects & creative software ideas**
 - 🤔 I’m looking for help with: **Cloud orchestration & advanced DevOps**
@@ -15,12 +15,10 @@ I'm **a software engineer and programming enthusiast** who loves exploring new t
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love sports and always try to stay active!**
 
----
-
-### 🛠️ Tech Stack & Tools
-- **Languages:** JavaScript, CSS, PHP, & C#
-- **Frameworks:** Laravel, pgAdmin 4  
-- **Tools:** Git, Figma  
-- **Databases:** MySQL, PostgreSQL  
+ 🛠️ Tech Stack & Tools
+- Languages: JavaScript, CSS, PHP, & C#
+- Frameworks: Laravel, pgAdmin 4  
+- Tools: Git, Figma  
+- Databases: MySQL, PostgreSQL  
 
 
