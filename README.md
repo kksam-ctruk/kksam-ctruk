@@ -62,7 +62,7 @@ Other        30 mins         ░░░░░░░░░░░░░░░░░
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
   
-  **⭐️ 從 [nairhacan](https://github.com/nairhacan) 和 ❤️**
+  **⭐️ 從 [haitsam](https://github.com/haitsam) 和 ❤️**
   
   
 </div>
